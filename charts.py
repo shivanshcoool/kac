@@ -11,4 +11,4 @@ explode = (0, 0, 0, 0,0,0.1,0,0,0,0,0)
 
 plt.pie(a, explode=explode, colors=color,labels = label, autopct='%1.1f%%', shadow=True, startangle=140)
 plt.axis('equal')
-plt.show()
+plt.show()    
